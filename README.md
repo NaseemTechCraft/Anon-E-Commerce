@@ -1,2 +1,2 @@
 # Anon E-Commerce
-A responsive eCommerce website built using HTML, CSS, and JavaScript.
+A responsive E-Commerce website built using HTML, CSS, and JavaScript.

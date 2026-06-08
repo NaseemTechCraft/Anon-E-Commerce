@@ -1,4 +1,5 @@
 # Anon E-Commerce
+<<<<<<< HEAD
 
 ## Overview
 **Anon E-Commerce** is a modern, fully responsive online shopping platform designed to provide customers with a seamless and intuitive shopping experience. Built with pure HTML5, CSS3, and JavaScript, this project showcases a professional e-commerce interface with product browsing, filtering capabilities, and a user-friendly navigation system. Perfect for selling products online with a clean, modern design that works flawlessly across all devices.
@@ -110,3 +111,6 @@ This project is licensed under the MIT License.
 ---
 
 © 2026 Muhammad Naseem Hayyat. All Rights Reserved.
+=======
+A responsive E-Commerce website built using HTML, CSS, and JavaScript.
+>>>>>>> 3baa50c6bfbca07cf2f3b3796d078363b4b56ec9

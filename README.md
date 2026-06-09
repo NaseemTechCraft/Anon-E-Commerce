@@ -48,7 +48,7 @@ Anon E-Commerce/
 Use this project as a fully responsive e-commerce landing page. Browse products, explore categories, and interact with the cart interface for a polished shopping experience.
 
 ## Screenshots
-Screenshots of the website coming soon.
+![Anon E-Commerce Screenshot](Assets/Images/Anon E-Commerce.png)
 
 ## Future Enhancements
 - Add full checkout and payment workflow

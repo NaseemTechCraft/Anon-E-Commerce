@@ -1,46 +1,33 @@
 # Anon E-Commerce
-<<<<<<< HEAD
 
 ## Overview
-**Anon E-Commerce** is a modern, fully responsive online shopping platform designed to provide customers with a seamless and intuitive shopping experience. Built with pure HTML5, CSS3, and JavaScript, this project showcases a professional e-commerce interface with product browsing, filtering capabilities, and a user-friendly navigation system. Perfect for selling products online with a clean, modern design that works flawlessly across all devices.
+Anon E-Commerce is a modern and responsive online storefront built with HTML, CSS, and JavaScript. It is designed to showcase products in a clean and user-friendly way while providing an engaging shopping experience across desktop and mobile devices.
 
 ## Features
-- 📦 **Product Catalog** - Browse and view products with detailed information
-- 🛒 **Shopping Cart** - Add/remove items and manage your cart
-- 🔍 **Product Search & Filter** - Find products easily with search and category filters
-- ⭐ **Product Ratings & Reviews** - Customer feedback and ratings
-- 📱 **Mobile Responsive** - Optimized for all screen sizes (mobile, tablet, desktop)
-- 🎨 **Modern UI/UX** - Clean, professional, and intuitive interface
-- ⚡ **Fast Performance** - Quick loading times and smooth interactions
-- 🌐 **Cross-Browser Support** - Works on Chrome, Firefox, Safari, Edge
-- 🔒 **Secure Design** - Built with best practices for user data
-- 🧭 **Easy Navigation** - Intuitive menu and clear product organization
+- Responsive product catalog with detailed product cards
+- Interactive navigation and category browsing
+- Search and filter capabilities for product discovery
+- Add/remove items in a shopping cart interface
+- Smooth animations and responsive UI elements
 
 ## Technologies Used
-- **HTML5** - Semantic markup and structure
-- **CSS3** - Responsive styling with custom prefix support
-- **JavaScript (ES6+)** - Interactive features and dynamic functionality
-- **Responsive Design** - Mobile-first approach
-- **Icons & Images** - Optimized product images and UI icons
+- HTML5
+- CSS3
+- JavaScript
+- Responsive Design
+- Web Fonts and Icons
 
 ## 🌐 Website Link
-**Visit the live website:** https://naseemtechcraft.github.io/Anon-E-Commerce/
+https://naseemtechcraft.github.io/Anon-E-Commerce/
 
 ## Project Structure
 
-```
+```text
 Anon E-Commerce/
 │
 ├── Assets/
 │   ├── CSS/
-│   │   ├── Style.css
-│   │   └── Style Prefix.css
-│   │
 │   ├── Images/
-│   │   ├── Icons/
-│   │   ├── Logo/
-│   │   └── Products/
-│   │
 │   └── README.md
 │
 ├── JS/
@@ -52,36 +39,23 @@ Anon E-Commerce/
 
 ## Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/naseemtechcraft/Anon-E-Commerce.git
-   ```
-
-2. Open the project folder in your code editor.
-
-3. Open `Index.html` in your web browser or run on a local server.
-
-4. Customize content as required for your needs.
+1. Clone the repository.
+2. Navigate to the project directory.
+3. Install required dependencies if any.
+4. Open `Index.html` in your browser or serve the folder locally.
 
 ## Usage
-This e-commerce website provides an intuitive shopping interface where users can:
-- Browse products with a clean, modern design
-- Navigate easily through different sections
-- Experience fast loading times and smooth interactions
-- Use the website seamlessly on desktop and mobile devices
+Use this project as a fully responsive e-commerce landing page. Browse products, explore categories, and interact with the cart interface for a polished shopping experience.
 
 ## Screenshots
 Screenshots of the website coming soon.
 
 ## Future Enhancements
-- Advanced Dashboard
-- Shopping Cart Functionality
-- Payment Gateway Integration
-- User Authentication System
-- Product Search & Filters
-- Order Management
-- Performance Optimization
-- Additional Features
+- Add full checkout and payment workflow
+- Implement user authentication and accounts
+- Add advanced product filtering and sorting
+- Improve cart persistence and state management
+- Add admin dashboard for product management
 
 ## License
 This project is licensed under the MIT License.
@@ -90,27 +64,32 @@ This project is licensed under the MIT License.
 
 ## Developer Information
 
-### Muhammad Naseem Hayyat
-**Website and Android Application Developer**  
-**University of Layyah**
+## Muhammad Naseem Hayyat
+Website and Android Application Developer  
+University of Layyah
 
-### Contact Information
+### Contact Us Now
 
-**Email:** naseemhayyat23@gmail.com
+#### Email ID
 
-**Phone:** +92 303 2590618
+naseem.hayyat23@gmail.com
 
-**Website:** https://naseemtechcraft.github.io/Anon-E-Commerce/
+#### Phone No
 
-**GitHub:** https://github.com/naseemtechcraft
++92 303 2590618
 
-**LinkedIn:** https://linkedin.com/in/naseem-hayyat
+#### GitHub
 
-**Facebook:** https://facebook.com/naseemtechcraft
+https://github.com/NaseemTechCraft
+
+#### LinkedIn
+
+https://www.linkedin.com/in/m-naseem-hayyat-687716407
+
+#### Facebook Page
+
+https://www.facebook.com/profile.php?id=61571344233339&mibextid=ZbWKwL
 
 ---
 
 © 2026 Muhammad Naseem Hayyat. All Rights Reserved.
-=======
-A responsive E-Commerce website built using HTML, CSS, and JavaScript.
->>>>>>> 3baa50c6bfbca07cf2f3b3796d078363b4b56ec9
